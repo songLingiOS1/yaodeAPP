@@ -10,7 +10,7 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
-					<key>url</key>
+					<key><a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/MyAccount/MyApp/master/manifest.plist">App Install</a></key>
 					<string>https://github.com/songLingiOS1/yaodeAPP/YaoDe_enterprise_test1.ipa</string>
 				</dict>
 				<dict>
