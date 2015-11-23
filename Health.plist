@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>这里填ipa的下载地址(如:https://dn-health.qbox.me/Health.ipa)</string>
+					<string>https://github.com/songLingiOS1/yaodeAPP/YaoDe_enterprise_test1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>这里填项目的bundle id(如:com.pmit.Health)</string>
+				<string>com.gzyzkj.YaoDe</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
